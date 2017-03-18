@@ -7,7 +7,6 @@ node {
     sendNotifications {
         isFailed = failed
         slackChannel = slack_channel
-        slackCustomMsg = "Test"
+        slackCustomMsg = "Test Msg"
     }
 }
-
