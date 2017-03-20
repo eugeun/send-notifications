@@ -1,5 +1,3 @@
-@Library('SQE-CI-pipeline-library') _
-
 def slack_channel = "#eugeun-ci"
 def failed = false
 
